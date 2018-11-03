@@ -15,8 +15,6 @@ class Song
   end
 
   
-
-
   def self.all
     @@songs
   end
