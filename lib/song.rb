@@ -3,6 +3,7 @@ require_relative '../config/environment.rb'
 
 class Song
   extend Memorable::ClassMethods
+  include Me
   extend Findable
   include Paramable
 
