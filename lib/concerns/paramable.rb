@@ -1,6 +1,6 @@
 module Paramable
   def initialize
-    self.
+    self.all
   end
 
   def to_param
