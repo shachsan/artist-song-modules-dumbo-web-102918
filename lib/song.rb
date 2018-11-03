@@ -12,7 +12,7 @@ class Song
   @@songs = []
 
   def initialize
-  se << self
+    self. << self
   end
 
 
