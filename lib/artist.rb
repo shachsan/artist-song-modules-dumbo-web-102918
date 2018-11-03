@@ -4,7 +4,7 @@ require_relative '../config/environment.rb'
 
 class Artist
   extend Memorable::ClassMethods
-  include Memorable::
+  include Memorable::InstanceMethods
   extend Findable
   include Paramable
 
