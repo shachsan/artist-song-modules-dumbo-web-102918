@@ -13,5 +13,5 @@ module Memorable
     end
   end
 
-  
+  module
 end
