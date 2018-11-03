@@ -1,5 +1,5 @@
 module Memorable
-  module
+  module ClassMethods
     def initialize
       self.class.all << self
     end
