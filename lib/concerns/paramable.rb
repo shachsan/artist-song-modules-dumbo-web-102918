@@ -1,6 +1,7 @@
 module Paramable
   def initialize
-  end 
+    self.
+  end
 
   def to_param
     name.downcase.gsub(' ', '-')
